@@ -23,9 +23,9 @@ const ContactForm: React.FC = () => {
                     <MapPin size={28} />
                   </div>
                   <div className="text-center sm:text-left">
-                    <h4 className="font-bold text-white text-lg">Visit Boutique</h4>
+                    <h4 className="font-bold text-white text-lg">Visit Office</h4>
                     <p className="text-slate-400">
-                      Office 5-B Basement Mehmood Plaza 10ld #79W G-7 Fazal-e-Haq Road Blue Area, Islamabad
+                    Office 5-B Mehmood Plaza, Fazal-e-Haq Road, Blue Area, Islamabad
                     </p>
                   </div>
                 </div>
@@ -34,8 +34,8 @@ const ContactForm: React.FC = () => {
                     <Phone size={28} />
                   </div>
                   <div className="text-center sm:text-left">
-                    <h4 className="font-bold text-white text-lg">Call Concierge</h4>
-                    <p className="text-slate-400">051 212 0985 , 051 111 0986 , 051 844 3838 , +92 300 511 0575 , +92 344 511 0575</p>
+                    <h4 className="font-bold text-white text-lg">Contact Us</h4>
+                    <p className="text-slate-400">051 212 0985 , 051 212 0986 , 051 844 3838 , +92 300 511 0575 , +92 344 511 0575</p>
                   </div>
                 </div>
                 <div className="flex flex-col sm:flex-row items-center sm:items-start justify-center sm:justify-center space-y-4 sm:space-y-0 sm:space-x-6 group">

@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               </span>
             </div>
             <p className="text-slate-400 leading-relaxed max-w-xs">
-              Luxury travel concierge providing unparalleled access to the world's most exquisite destinations since 2012.
+              Luxury travel concierge providing unparalleled access to the world's most exquisite destinations since 2017.
             </p>
             <div className="flex space-x-4">
               {[Instagram, Facebook, Twitter, Linkedin].map((Icon, i) => (
@@ -58,15 +58,13 @@ const Footer: React.FC = () => {
                 <div className="bg-white/5 p-2 rounded-lg group-hover:bg-orange-500/20 transition-colors">
                   <MapPin className="text-orange-500 shrink-0" size={20} />
                 </div>
-                <span className="text-slate-400 leading-snug">Office 5-B Basement Mehmood
-Plaza 10ld #79W G-7 Fazal-e-Haq
-Road Blue Area, Islamabad</span>
+                <span className="text-slate-400 leading-snug">Office 5-B Mehmood Plaza, Fazal-e-Haq Road, Blue Area, Islamabad</span>
               </li>
               <li className="flex items-center space-x-4 group">
                 <div className="bg-white/5 p-2 rounded-lg group-hover:bg-orange-500/20 transition-colors">
                   <Phone className="text-orange-500 shrink-0" size={20} />
                 </div>
-                <span className="text-slate-400">051 212 0985 , 051 111 0986 , 051 844 3838 , +92 300 511 0575 , +92 344 511 0575</span>
+                <span className="text-slate-400">051 212 0985 , 051 212 0986 , 051 844 3838 , +92 300 511 0575 , +92 344 511 0575</span>
               </li>
               <li className="flex items-center space-x-4 group">
                 <div className="bg-white/5 p-2 rounded-lg group-hover:bg-orange-500/20 transition-colors">

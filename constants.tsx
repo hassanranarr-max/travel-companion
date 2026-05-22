@@ -56,7 +56,7 @@ export const UMRAH_TOURS: Tour[] = [
     location: 'Makkah & Madinah',
     price: 1599,
     duration: '12 Days',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Kabah_in_the_Grand_Mosque_of_Makkah_from_the_second_floor%2C_Saudi_Arabia_%288%29_%2852501956308%29.jpg',
+    image: 'https://static.vecteezy.com/system/resources/thumbnails/066/987/087/small/al-masjid-an-nabawi-reflecting-at-dusk-in-medina-saudi-arabia-photo.jpg',
     category: 'Umrah'
   }
 ];
@@ -126,6 +126,14 @@ export const STATS: Stat[] = [
 ];
 
 export const PARTNERS: Partner[] = [
+  { name: 'Pakistan International Airlines', logo: 'https://logos-world.net/wp-content/uploads/2023/01/Pakistan-International-Airlines-Logo.jpg' },
+  { name: 'Serene Airlines', logo: 'https://crystalpng.com/wp-content/uploads/2025/10/serene-air-logo.png' },
+  { name: 'Airblue', logo: 'https://download.logo.wine/logo/Airblue/Airblue-Logo.wine.png' },
+  { name: 'Etihad Airways', logo: 'https://logos-world.net/wp-content/uploads/2023/01/Etihad-Airways-Logo.jpg' },
+  { name: 'Oman Air', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIEmSrbXEPj2vscPjvqdHTfKZ0l94QVhrmYw&s' },
+  { name: 'Turkish Airlines', logo: 'https://cdn.turkishairlines.com/asset/8e28f8dd-7327-41c1-b248-51242c65b3af/THY_0038_RENKLI-c-CIFT-SATIR-YATAY-TIRE.webp' },
+  { name: 'Saudia Airlines', logo: 'https://logos-world.net/wp-content/uploads/2023/01/Saudi-Arabian-Airlines-Logo.jpg' },
+  { name: 'Thai Airways', logo: 'https://www.logo.wine/a/logo/Thai_Airways/Thai_Airways-Logo.wine.svg' },
   { name: 'Emirates', logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Emirates_logo.svg' },
   { name: 'Qatar Airways', logo: 'https://www.britishcouncil.or.th/sites/default/files/styles/bc-landscape-950x534/public/qatar_logo.jpg?itok=EUnKNQGB' },
   { name: 'Turkish Airlines', logo: 'https://cdn.worldvectorlogo.com/logos/turkish-airlines-logo.svg' },
