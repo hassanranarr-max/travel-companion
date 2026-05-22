@@ -48,9 +48,13 @@ const TourCard: React.FC<TourCardProps> = ({ tour }) => {
                <Clock size={16} className="mr-1.5 text-orange-500" />
                {tour.duration}
              </div>
-             <button className="w-12 h-12 bg-slate-50 group-hover:bg-orange-500 rounded-2xl flex items-center justify-center transition-all text-slate-400 group-hover:text-white shadow-sm group-hover:shadow-lg group-hover:shadow-orange-500/30">
+             <a
+               href="#contact"
+               aria-label="Contact us about this package"
+               className="w-12 h-12 bg-slate-50 group-hover:bg-orange-500 rounded-2xl flex items-center justify-center transition-all text-slate-400 group-hover:text-white shadow-sm group-hover:shadow-lg group-hover:shadow-orange-500/30"
+             >
                 <ArrowUpRight size={20} />
-             </button>
+             </a>
           </div>
         </div>
       </div>
